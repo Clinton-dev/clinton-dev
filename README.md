@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-- 🌱 I’m currently learning ... python and django
-- 👯 I’m looking to collaborate on ... rails and flask
+- 🌱 I’m currently learning ... typescript, python and django
+- 👯 I’m looking to collaborate on ... react, angular, rails and flask
 - 🤔 I’m looking for help with ... AWS
  
 - ⚡ Fun fact: ...  The Firefox logo isn’t a fox… it’s a red panda!
