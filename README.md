@@ -11,8 +11,10 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently learning ... typescript and python.
-- 👯 I’m looking to collaborate on ... angular and django.
+- 🌱 I’m currently learning ... Typescript.
+- 👯 I’m looking to collaborate on ... Angular.
+- 💬 Ask me about ... Python
+- 📫 How to reach me: ... clintonwambugu@gmail.com
  
 - ⚡ Fun fact: ...  The Firefox logo isn’t a fox… it’s a red panda!
 
