@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Python
 - 📫 How to reach me: ... clintonwambugu@gmail.com
  
-- ⚡ Fun fact: ...  The Firefox logo isn’t a fox… it’s a red panda!
+- ⚡ Fun fact: ...  2006 Time magazine person of the Year!
 
