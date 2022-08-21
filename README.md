@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently learning ... Typescript.
-- 👯 I’m looking to collaborate on ... Angular.
+- 🌱 I’m currently learning ... Automation.
+- 👯 I’m looking to collaborate on ... Angular/react.
 - 💬 Ask me about ... Python
 - 📫 How to reach me: ... clintonwambugu@gmail.com
  
