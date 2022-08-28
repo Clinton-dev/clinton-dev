@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Angular/react.
 - 💬 Ask me about ... Python
 - 📫 How to reach me: ... clintonwambugu@gmail.com
+- mailbox_with_mail Linkedin: ...www.linkedin.com/in/clinton-wambugu-96596a158
  
 - ⚡ Fun fact: ...  2006 Time magazine person of the Year!
 
