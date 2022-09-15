@@ -4,7 +4,7 @@ Hi 👋 My name is clinton wambugu
 Full stack web developer
 ------------------------
 
-* 🌍  I'm based in Kenya
+* 🌍  I am a graduate from Moringa school and currently based in Kenya.
 * 🖥️  See my portfolio at [MyPortfolio](http://clintonwambugu-portfolio.herokuapp.com/)
 * ✉️  You can contact me at [clintonwambugu@gmail.com](mailto:clintonwambugu@gmail.com)
 * 🧠  I'm learning React
