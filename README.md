@@ -7,7 +7,7 @@ Full stack web developer
 * 🌍  I am a graduate from Moringa school and currently based in Kenya.
 * 🖥️  See my portfolio at [MyPortfolio](http://clintonwambugu-portfolio.herokuapp.com/)
 * ✉️  You can contact me at [clintonwambugu@gmail.com](mailto:clintonwambugu@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning AWS cloud practioner
 * 🤝  I'm open to collaborating on automation, API, IoT
 * ⚡  I'am the caped crusader, It can be our little secret.
 
