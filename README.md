@@ -9,7 +9,7 @@ Full stack web developer
 * ✉️  You can contact me at [clintonwambugu@gmail.com](mailto:clintonwambugu@gmail.com)
 * 🧠  I'm learning AWS cloud practioner
 * 🤝  I'm open to collaborating on automation, API, IoT
-* ⚡  I'am the caped crusader, It can be our little secret.
+* ⚡  Veni, Vidi, Vici
 
 ### Skills
 
