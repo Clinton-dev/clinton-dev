@@ -8,7 +8,7 @@ Full stack web developer
 * 🖥️  See my portfolio at [MyPortfolio](http://clintonwambugu-portfolio.herokuapp.com/)
 * ✉️  You can contact me at [clintonwambugu@gmail.com](mailto:clintonwambugu@gmail.com)
 * 🧠  I'm AWS cloud practioner certified
-* 🤝  I'm open to collaborating on automation, API, IoT
+* 🤝  I'm open to collaborating on Automation, API, Cloud Development
 * ⚡  Veni, Vidi, Vici
 
 ### Skills
