@@ -5,7 +5,7 @@ Frontend Developer web developer
 ------------------------
 
 * 🌍  I am a graduate from Moringa school and currently based in Kenya. 
-* 🖥️  See my portfolio at [MyPortfolio](http://clintonwambugu-portfolio.herokuapp.com/)
+* 🖥️  See my portfolio at [MyPortfolio](http://clintonwambugu.com)
 * ✉️  You can contact me at [clintonwambugu@gmail.com](mailto:clintonwambugu@gmail.com)
 * 🧠  I'm AWS cloud practioner certified
 * 🤝  I'm open to collaborating on Automation, API, Cloud Development
