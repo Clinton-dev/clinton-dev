@@ -1,7 +1,7 @@
 Hi 👋 My name is clinton wambugu
 ================================
 
-Frontend Developer web developer
+Software Developer & Cloud engineer
 ------------------------
 
 * 🌍  I am a graduate from Moringa school and currently based in Kenya. 
